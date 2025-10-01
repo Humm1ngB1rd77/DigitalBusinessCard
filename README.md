@@ -1,12 +1,12 @@
 # 🪪 Digital Business Card
 
-A fun side project I built as a unique way to represent myself at **cybersecurity conferences**.
+This is a fun side project I built as a unique way to represent myself at **cybersecurity conferences**.  
 
-When someone scans the QR code on my **physical business card**, they land on a hosted page from this repo. The page includes:
-- 🔗 Links to my **LinkedIn** and **GitHub**
-- 🕵️ A small **CTF-style puzzle** — solve it to unlock my CV
+When someone scans the QR code on my **physical business card**, they land on a hosted page from this repo. The page includes:  
+- 🔗 Links to my **LinkedIn** and **GitHub**  
+- 🕵️ A small **CTF-style puzzle** — solve it to unlock my CV  
 
-The goal: turn a simple business card into something **interactive and memorable**.
+The goal: turn a simple business card into something **interactive and memorable**.  
 
 ---
 
@@ -14,16 +14,20 @@ The goal: turn a simple business card into something **interactive and memorable
 
 - **HTML** – page structure  
 - **CSS** – styling and layout  
-- **JavaScript** – interactivity + CTF logic
+- **JavaScript** – interactivity + CTF logic  
 
 ---
 
 ## 📂 Project Structure
+
+
 /digital-business-card
-├── index.html # Landing page
-├── style.css # Styles
-├── script.js # CTF + interactivity
-└── cv/ # CV assets (e.g., CV.pdf)
+├── index.html      # Landing page
+├── style.css       # Styles
+├── script.js       # CTF + interactivity
+├── cv/             # CV assets (e.g., CV.pdf)
+└── assets/         # Images, templates, resources
+
 
 > Links currently point to my profiles:
 > - LinkedIn: `https://www.linkedin.com/in/jpetek/`  
