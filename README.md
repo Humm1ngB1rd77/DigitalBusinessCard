@@ -20,7 +20,7 @@ The goal: turn a simple business card into something **interactive and memorable
 
 ## 📂 Project Structure
 
-
+```text
 /digital-business-card
 ├── index.html      # Landing page
 ├── style.css       # Styles
